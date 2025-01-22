@@ -22,7 +22,8 @@ author: Erik Saltwell
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-  Contact: "contact"  Author's home: "https://www.eriksalt.com"
+  Contact: "contact"  
+  Author's home: "https://www.eriksalt.com"
 
 ################
 # --- Logo --- #
