@@ -1,14 +1,19 @@
 ---
 layout: post
-title: Band of Blades Accessories
-subtitle: My covid special project
+title: The scent sprayer
+subtitle: Olfactory game aid for Gods Teeth
 tags: [rpg, maker]
 author: Erik Saltwell
 ---
-I have been super excited to play [Stras Acimovic](https://twitter.com/strasa) and [John LeBeouf-Little](https://twitter.com/worldnamer)'s dark military rpg: [Band of Blades](https://offguardgames.com/band-of-blades/). It has great Forged in the Dark mechanics and the amazing feels of Glen Cook's [Black Company](https://www.amazon.com/Chronicles-Black-Company-Glen-Cook/dp/0765319233/) books.  Anyhow, while I have been waiting for my existing campaign's to wrap up, I have been building out accessories to use in play, including:
-- A laser-engraved leather map.
-- Leather guidebooks for each role.
-- 3D printed pieces to represent the current location of the legion on the map.
-- 3D printed unit tokens to track the history of victories and failures over the campaign.
+Every year around Halloween I run a horror RPG session using the [Dread](https://www.tiltingatwindmills.net/games/dread/) roleplaying game.  For the past few years a running theme in my game has been the presence of the smell of sugar cookies when the players are in the presence of comsmic horror.  The idea was to contrast something horrible with something sweet and innocent.
 
-![Game Accessories](/assets/img/BoBAccessories.jpg)
+I wanted to find a way for the players, not just the characters, to develop a dear response to this sweet smell, so during the game I wanted a way to distribute the smell of sugar cookies throughout our play area.
+
+Behold: The Scent Sprayer.
+![Scent Sparyer Rear](/assets/img/scent_sprayer_rear.jpg)
+
+It is just a holder for a PC case fan that is placed over a scented candle.  The increased airflow improves the burn rate of the candle and distributes the smell over a wide area.   From the front you can see the on-off switch.
+
+![Scent Sparyer Front](/assets/img/scent_sprayer_front.jpg)
+
+
