@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Random facts about Erik Saltwell
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Lives in Seattle, Washington
+- Married his High School sweetheart
+- Spent two decades at Microsoft working on:
+   - The .Net Framework
+   - C#
+   - Expression Web (professional web design tools)
+   - HoloLens
+   - Azure AI Platform
+- Now works in a research lab at Meta focused on how to touch holograms
+- Owns a culinary centrefuge for making cocktails
+- Made his own Sous Vide machine before you could buy consumer units
+- Personally killed Microsoft FrontPage
+- Obsessed with tabletop roleplaying games and roleplaying game theory
+- Has hosted podcasts and appeared on actual play twitch streams for the Forged In The Dark RPG community called the Fiction First Network
+- Was once featured in a small story on NPR's Planet Money
+- Never *convicted* of attempted murder
