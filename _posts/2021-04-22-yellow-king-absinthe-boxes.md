@@ -2,9 +2,6 @@
 layout: post
 title: Yellow King Absinthe Boxes
 subtitle: 3D Printed Absinthe Gift Boxes For My RPG Group
-cover-img: /assets/img/absinthe_small.jpg
-thumbnail-img: /assets/img/absinthe_tiny.jpg
-share-img: /assets/img/path.jpg
 tags: [rpg, 3dptinter]
 author: Erik Saltwell
 ---
