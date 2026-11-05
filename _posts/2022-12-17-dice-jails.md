@@ -9,8 +9,6 @@ I am about to finish off an epic, level 1-20 5th edition dnd campaign that I hav
 
 Here they are just after putting down the base coat of paint.
 ![Many dice jails](/assets/img/dice_jail_many.jpg)
-{{< image src="postimg/dice_jail_many.jpg" alt="Some dice jails in the middle of the painting process." class="left">}}
 
 And here is one after dry brushing - ready to wrap up and give to one of my players!
 ![A single dice jail](/assets/img/dice_jail_solo.jpg)
-{{< image src="postimg/dice_jail_solo.jpg" alt="A finished dice jail" class="left">}}
