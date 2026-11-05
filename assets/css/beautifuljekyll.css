@@ -408,7 +408,7 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 1.875rem 0;
+  padding: 1.5rem 0;
   border-top: 1px var(--footer-col) solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
@@ -441,7 +441,7 @@ footer a:focus {
 footer .list-inline {
   margin: 0;
   padding: 0;
-  margin-bottom: 1.875rem;
+  margin-bottom: 1rem;
 }
 footer .copyright {
   font-family: var(--header-font);
@@ -461,7 +461,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   footer {
-    padding: 3.125rem 0;
+    padding: 1.75rem 0;
   }
   footer .footer-links {
     font-size: 1.125rem;
