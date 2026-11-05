@@ -20,6 +20,7 @@ layout: null
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
 
   /* common CSS variables */
+  --heading-col: #584F4E;
   --body-font: 'Lora', 'Times New Roman', serif;
   --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --mid-col: #808080;
@@ -427,7 +428,7 @@ footer a {
   color: var(--footer-link-col);
 }
 footer .footer-links a {
-  color: var(--text-col);
+  color: var(--footer-link-col);
 }
 footer .footer-links .fa-inverse {
   color: var(--page-col);
@@ -500,6 +501,11 @@ footer .footer-custom-content {
   text-decoration: none;
   font-family: var(--header-font);
   color: var(--text-col);
+}
+
+.post-preview > article > a,
+.post-preview .post-read-more {
+  color: var(--heading-col);
 }
 
 .post-preview a:focus,
@@ -708,6 +714,11 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
+.intro-header:not(.big-img) .page-heading h1,
+.intro-header:not(.big-img) .post-heading h1 {
+  color: var(--heading-col);
+}
+
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 3.125rem;
@@ -813,7 +824,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   padding: 0.625rem 0.3125rem;
   background-color: var(--page-col);
   border-radius: 0;
-  color: var(--text-col);
+  color: var(--heading-col);
   padding: 0.75rem 1rem;
 }
 @media (min-width: 768px) {
