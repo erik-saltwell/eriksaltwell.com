@@ -180,6 +180,20 @@ img {
   font-size: 1.125rem;
 }
 
+.navbar-custom .navbar-brand-home {
+  display: none;
+}
+
+@media (max-width: 399.98px) {
+  .navbar-custom .navbar-brand-name {
+    display: none;
+  }
+
+  .navbar-custom .navbar-brand-home {
+    display: inline;
+  }
+}
+
 .navbar-custom .navbar-brand-logo {
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
