@@ -81,6 +81,11 @@ a:hover,
 a:focus {
   color: var(--hover-col);
 }
+main p a:not(.btn),
+main li a:not(.btn):not(.page-link) {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
 blockquote {
   color: var(--mid-col);
   font-style: italic;
