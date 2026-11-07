@@ -271,6 +271,7 @@
   width: calc(100% - 2rem);
   max-width: 36rem;
   max-height: calc(100% - 2rem);
+  box-sizing: border-box; /* Bootstrap sets this; a host without it would overflow */
   overflow-y: auto;
   border: 0;
   border-radius: 8px;
@@ -338,6 +339,17 @@
 
 .cc-steps li {
   margin-bottom: 0.25rem;
+}
+
+/* Walkthrough screenshots, inlined as data URIs at build time (2x pixels). */
+.cc-shot {
+  display: block;
+  width: 100%;
+  max-width: 240px;
+  height: auto;
+  margin: 0.5rem 0 1rem;
+  border: 1px solid var(--cc-card-border);
+  border-radius: 8px;
 }
 
 /* The theme gives every paragraph a 30px margin; the overlay is denser. */
