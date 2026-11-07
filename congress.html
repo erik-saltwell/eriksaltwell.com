@@ -19,7 +19,44 @@ js:
     </div>
     <p id="cc-zip-error" class="cc-error" hidden></p>
   </form>
+  <p class="cc-tools">
+    <a href="#help" class="cc-help-open">How to save a contact</a> <button type="button" class="cc-linkbtn cc-copy" data-cc-copy="page">Copy link to this page</button>
+  </p>
+  <p class="cc-copy-status" role="status"></p>
   <div id="cc-results" class="cc-results" tabindex="-1" aria-live="polite" hidden></div>
   <noscript><p class="cc-noscript">This page needs JavaScript to look up your officials.</p></noscript>
+
+  <dialog id="cc-help" class="cc-help" aria-labelledby="cc-help-title">
+    <div class="cc-help-head">
+      <h2 id="cc-help-title" class="cc-help-title" tabindex="-1" autofocus>How to save a contact</h2>
+      <button type="button" class="cc-help-close" aria-label="Close help"><span aria-hidden="true">&times;</span></button>
+    </div>
+    <p>Tap <b>Add to contacts</b> next to each official, then follow the steps for your phone.</p>
+
+    <h3 class="cc-help-phone">iPhone</h3>
+    <ol class="cc-steps">
+      <li>Tap <b>Add to contacts</b>.</li>
+      <li>A New Contact screen opens. Tap the check mark at the top right.</li>
+    </ol>
+    <p class="cc-help-trouble">If you see a contact card instead, tap <b>Create New Contact</b>.</p>
+
+    <h3 class="cc-help-phone">Android</h3>
+    <ol class="cc-steps">
+      <li>Tap <b>Add to contacts</b>. The card downloads.</li>
+      <li>Tap <b>Open</b>.</li>
+      <li>If you're asked which app to use, choose <b>Contacts</b>.</li>
+      <li>Contacts shows the card. Tap the button at the bottom to add it as a new contact.</li>
+    </ol>
+    <p class="cc-help-trouble">If the Open button goes away, open your Files or Downloads app and tap the card's file, which is named after the official (for example Patty-Murray.vcf). Then choose Contacts.</p>
+
+    <h3 class="cc-help-phone">On a computer</h3>
+    <p>The card downloads as a file. To add it to Google Contacts, follow <a href="https://support.google.com/contacts/answer/15147365?co=GENIE.Platform%3DDesktop&amp;hl=en" target="_blank" rel="noopener noreferrer">Google's import steps (opens in a new tab)</a>. It's quicker to do on your phone.</p>
+
+    <p class="cc-help-share">
+      <button type="button" class="cc-linkbtn cc-copy" data-cc-copy="help">Copy link to these instructions</button>
+    </p>
+    <p class="cc-copy-status" role="status"></p>
+    <button type="button" class="btn btn-primary btn-lg cc-help-done">Close</button>
+  </dialog>
 </div>
 <script type="application/json" id="cc-data">{{ site.data.congress | jsonify }}</script>
