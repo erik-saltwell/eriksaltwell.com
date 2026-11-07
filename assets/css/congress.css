@@ -227,14 +227,6 @@
 }
 
 /* Help and sharing (phase 6). Links and link-style buttons share one look. */
-/* The two links wrap onto separate lines on a narrow phone. */
-.cc-tools {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  column-gap: 1.5rem;
-  margin: 0.75rem 0 0;
-}
 
 .cc-app .cc-linkbtn {
   background: none;
